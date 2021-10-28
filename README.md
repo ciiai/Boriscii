@@ -7,4 +7,4 @@ I love building little tools to automate my work and I upload some of these here
 **LinkedIn**: [Borys Nadykto](http://linkedin.com/in/borys-nadykto)
 
 **Most recent coding challenge:**
-Google Kick Start, round F 2021, Top 15 Submissions in the UK
+Credit Suisse Global Coding Challenge, [UK Bronze Medal](https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/home)
