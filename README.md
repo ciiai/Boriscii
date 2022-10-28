@@ -1,6 +1,6 @@
 # Borys Nadykto
 
-Business Analyst with 2+ years of part-time experience in fintech. LSE Grad, Quant Economics. 
+Business Analyst with 2+ years of experience in fintech and security AI. LSE Grad, Quant Economics. 
 
 I love building little tools to automate my work and I upload some of these here. Feel free to explore, fork and use for your tasks.
 
